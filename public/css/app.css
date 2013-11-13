@@ -1,0 +1,36 @@
+/*
+ * Your application styling goes here
+ */
+.sidebar
+{
+	background: #A2B5CD;
+	font-size:0.9em;
+}
+
+.entry{
+	width:150px;
+	font-size:0.75em;
+}
+
+.well:hover{
+	border:3px solid #87CEFA;
+}
+
+html, body {
+	font-size:100%
+}
+
+.btn{
+	margin-bottom:5px;
+}
+
+.loading{
+	position: absolute;
+	top:150px;
+	left:300px;
+}
+
+input.ng-dirty.ng-invalid{
+        border:1px solid red;
+        padding:1px;
+}
